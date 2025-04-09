@@ -2,6 +2,8 @@
 .virtual_documents
 data/.ipynb_checkpoints/
 img/
-img.html
+#img.html
 *.jpg
+*.jpeg
+*.png
 .env
